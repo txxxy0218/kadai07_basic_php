@@ -9,7 +9,7 @@
 
 ## ③DEMO
 
-https://ur-special.jp/kadai07_basic_php/index.php
+[https://ur-special.jp/kadai07_basic_php/index.php](https://ur-special.sakura.ne.jp/kadai07_basic_php/index.php)
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
